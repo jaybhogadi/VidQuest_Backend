@@ -1,0 +1,103 @@
+[2025-08-28 16:48:52,234] [INFO] video-mcq: WS connected: requestId=5cee1adb-c558-492b-b4d8-32df9cb7eb9c, total=1
+[2025-08-28 16:48:55,796] [INFO] video-mcq: Initializing Whisper model: base.en on cpu
+[2025-08-28 16:48:56,913] [INFO] video-mcq: Whisper model initialized
+[2025-08-28 16:48:57,246] [INFO] faster_whisper: Processing audio with duration 01:17.653
+[2025-08-28 16:49:12,945] [INFO] video-mcq: Initializing LLM provider: groq
+[2025-08-28 16:49:13,600] [INFO] video-mcq: LLM initialized
+[2025-08-28 16:49:15,335] [INFO] httpx: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-08-28 16:49:15,367] [INFO] video-mcq: Successfully generated 5 MCQs
+[2025-08-28 16:49:39,395] [INFO] video-mcq: WS disconnected: requestId=5cee1adb-c558-492b-b4d8-32df9cb7eb9c
+[2025-08-28 16:49:58,716] [INFO] video-mcq: Starting up the application...
+[2025-08-28 16:50:01,545] [INFO] video-mcq: Initializing Whisper model: base.en on cpu
+[2025-08-28 16:50:02,758] [INFO] video-mcq: Whisper model initialized
+[2025-08-28 16:50:02,759] [INFO] video-mcq: Initializing LLM provider: groq
+[2025-08-28 16:50:03,361] [INFO] video-mcq: LLM initialized
+[2025-08-28 16:50:03,362] [INFO] video-mcq: Models loaded successfully.
+[2025-08-28 16:50:08,022] [INFO] video-mcq: Starting up the application...
+[2025-08-28 16:50:10,665] [INFO] video-mcq: Initializing Whisper model: base.en on cpu
+[2025-08-28 16:50:11,564] [INFO] video-mcq: Whisper model initialized
+[2025-08-28 16:50:11,564] [INFO] video-mcq: Initializing LLM provider: groq
+[2025-08-28 16:50:12,069] [INFO] video-mcq: LLM initialized
+[2025-08-28 16:50:12,069] [INFO] video-mcq: Models loaded successfully.
+[2025-08-28 16:50:40,284] [INFO] video-mcq: WS connected: requestId=f647d00b-478b-431e-979f-344f7cf15a1e, total=1
+[2025-08-28 16:50:40,586] [INFO] faster_whisper: Processing audio with duration 01:17.653
+[2025-08-28 16:50:57,295] [INFO] httpx: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-08-28 16:50:57,310] [INFO] video-mcq: Successfully generated 5 MCQs
+[2025-08-28 16:51:05,951] [INFO] video-mcq: WS disconnected: requestId=f647d00b-478b-431e-979f-344f7cf15a1e
+[2025-08-28 16:51:06,056] [INFO] video-mcq: Shutting down the application...
+[2025-08-28 16:51:12,715] [INFO] video-mcq: Starting up the application...
+[2025-08-28 16:51:21,721] [INFO] video-mcq: Initializing Whisper model: base.en on cpu
+[2025-08-28 16:51:26,257] [INFO] video-mcq: Whisper model initialized
+[2025-08-28 16:51:26,260] [INFO] video-mcq: Initializing LLM provider: groq
+[2025-08-28 16:51:28,627] [INFO] video-mcq: LLM initialized
+[2025-08-28 16:51:28,630] [INFO] video-mcq: Models loaded successfully.
+[2025-08-28 16:51:56,581] [INFO] video-mcq: Shutting down the application...
+[2025-08-28 16:51:58,628] [INFO] video-mcq: Starting up the application...
+[2025-08-28 16:52:03,096] [INFO] video-mcq: Initializing Whisper model: base.en on cpu
+[2025-08-28 16:52:04,548] [INFO] video-mcq: Whisper model initialized
+[2025-08-28 16:52:04,550] [INFO] video-mcq: Initializing LLM provider: groq
+[2025-08-28 16:52:05,348] [INFO] video-mcq: LLM initialized
+[2025-08-28 16:52:05,349] [INFO] video-mcq: Models loaded successfully.
+[2025-08-28 16:52:07,083] [INFO] video-mcq: Starting up the application...
+[2025-08-28 16:52:10,560] [INFO] video-mcq: Initializing Whisper model: base.en on cpu
+[2025-08-28 16:52:11,565] [INFO] video-mcq: Whisper model initialized
+[2025-08-28 16:52:11,566] [INFO] video-mcq: Initializing LLM provider: groq
+[2025-08-28 16:52:12,189] [INFO] video-mcq: LLM initialized
+[2025-08-28 16:52:12,189] [INFO] video-mcq: Models loaded successfully.
+[2025-08-28 16:52:28,244] [INFO] video-mcq: WS connected: requestId=6fe987c0-0e0c-4e97-bf19-5a92ca17eaab, total=1
+[2025-08-28 16:52:28,664] [INFO] faster_whisper: Processing audio with duration 01:17.653
+[2025-08-28 16:52:47,748] [INFO] httpx: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-08-28 16:52:47,768] [INFO] video-mcq: Successfully generated 5 MCQs
+[2025-08-28 16:53:29,262] [INFO] video-mcq: WS disconnected: requestId=6fe987c0-0e0c-4e97-bf19-5a92ca17eaab
+[2025-08-28 16:53:29,376] [INFO] video-mcq: Shutting down the application...
+[2025-08-28 16:53:31,025] [INFO] video-mcq: Starting up the application...
+[2025-08-28 16:53:34,500] [INFO] video-mcq: Initializing Whisper model: base.en on cpu
+[2025-08-28 16:53:35,638] [INFO] video-mcq: Whisper model initialized
+[2025-08-28 16:53:35,641] [INFO] video-mcq: Initializing LLM provider: groq
+[2025-08-28 16:53:36,359] [INFO] video-mcq: LLM initialized
+[2025-08-28 16:53:36,359] [INFO] video-mcq: Models loaded successfully.
+[2025-08-28 17:14:45,586] [INFO] video-mcq: Shutting down the application...
+[2025-08-28 17:14:47,564] [INFO] video-mcq: Starting up the application...
+[2025-08-28 17:14:51,138] [INFO] video-mcq: Initializing Whisper model: base.en on cpu
+[2025-08-28 17:14:52,275] [INFO] video-mcq: Whisper model initialized
+[2025-08-28 17:14:52,289] [INFO] video-mcq: Initializing LLM provider: groq
+[2025-08-28 17:14:53,029] [INFO] video-mcq: LLM initialized
+[2025-08-28 17:14:53,030] [INFO] video-mcq: Models loaded successfully.
+[2025-08-28 17:25:45,101] [INFO] video-mcq: Shutting down the application...
+[2025-08-28 17:25:46,953] [INFO] video-mcq: Starting up the application...
+[2025-08-28 17:25:50,774] [INFO] video-mcq: Initializing Whisper model: base.en on cpu
+[2025-08-28 17:25:51,982] [INFO] video-mcq: Whisper model initialized
+[2025-08-28 17:25:51,982] [INFO] video-mcq: Initializing LLM provider: groq
+[2025-08-28 17:25:52,859] [INFO] video-mcq: LLM initialized
+[2025-08-28 17:25:52,860] [INFO] video-mcq: Models loaded successfully.
+[2025-08-28 17:25:54,360] [INFO] video-mcq: Starting up the application...
+[2025-08-28 17:25:56,998] [INFO] video-mcq: Initializing Whisper model: base.en on cpu
+[2025-08-28 17:25:57,901] [INFO] video-mcq: Whisper model initialized
+[2025-08-28 17:25:57,901] [INFO] video-mcq: Initializing LLM provider: groq
+[2025-08-28 17:25:58,399] [INFO] video-mcq: LLM initialized
+[2025-08-28 17:25:58,399] [INFO] video-mcq: Models loaded successfully.
+[2025-08-28 17:29:21,743] [INFO] video-mcq: Shutting down the application...
+[2025-08-28 17:29:23,986] [INFO] video-mcq: Starting up the application...
+[2025-08-28 17:29:27,829] [INFO] video-mcq: Initializing Whisper model: base.en on cpu
+[2025-08-28 17:29:29,060] [INFO] video-mcq: Whisper model initialized
+[2025-08-28 17:29:29,062] [INFO] video-mcq: Initializing LLM provider: groq
+[2025-08-28 17:29:29,941] [INFO] video-mcq: LLM initialized
+[2025-08-28 17:29:29,941] [INFO] video-mcq: Models loaded successfully.
+[2025-08-28 17:30:14,941] [INFO] video-mcq: Shutting down the application...
+[2025-08-28 17:30:18,209] [INFO] video-mcq: Starting up the application...
+[2025-08-28 17:30:21,406] [INFO] video-mcq: Initializing Whisper model: base.en on cpu
+[2025-08-28 17:30:22,491] [INFO] video-mcq: Whisper model initialized
+[2025-08-28 17:30:22,491] [INFO] video-mcq: Initializing LLM provider: groq
+[2025-08-28 17:30:22,981] [INFO] video-mcq: LLM initialized
+[2025-08-28 17:30:22,981] [INFO] video-mcq: Models loaded successfully.
+[2025-08-28 17:30:51,036] [INFO] video-mcq: WS connected: requestId=67fd1f5f-b31b-4e42-b7e3-0c76880d8807, total=1
+[2025-08-28 17:30:51,470] [INFO] faster_whisper: Processing audio with duration 01:17.653
+[2025-08-28 17:31:11,070] [INFO] httpx: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-08-28 17:31:11,094] [INFO] video-mcq: Successfully generated 14 MCQs
+[2025-08-28 17:31:42,795] [INFO] video-mcq: WS connected: requestId=10e201cd-1191-4bbd-bd5b-7f5e541a0f35, total=1
+[2025-08-28 17:31:43,148] [INFO] faster_whisper: Processing audio with duration 01:17.653
+[2025-08-28 17:31:59,398] [INFO] httpx: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-08-28 17:31:59,408] [INFO] video-mcq: Successfully generated 2 MCQs
+[2025-08-28 17:52:31,751] [INFO] video-mcq: WS disconnected: requestId=67fd1f5f-b31b-4e42-b7e3-0c76880d8807
+[2025-08-28 17:52:31,751] [INFO] video-mcq: WS disconnected: requestId=10e201cd-1191-4bbd-bd5b-7f5e541a0f35
+[2025-08-28 17:52:31,847] [INFO] video-mcq: Shutting down the application...

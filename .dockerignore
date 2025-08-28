@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.env.*
+.idea/
+.vscode/
+.git/
+.gitignore
+node_modules/
+dist/
+build/
+*.mp4
+*.wav
+uploads/
