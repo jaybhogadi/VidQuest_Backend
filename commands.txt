@@ -1,0 +1,4 @@
+
+docker build -t video-mcq-api .                                                               
+
+docker run -p 8000:8000 --env GROQ_API_KEY=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 --env GROQ_MODEL=llama3-70b-8192 --env WHISPER_MODEL=base.en --env ALLOWED_ORIGINS=http://localhost:5173,http://localhost:3000,http://127.0.0.1:5173,http://localhost:8080,http://127.0.0.1:8080 video-mcq-api
